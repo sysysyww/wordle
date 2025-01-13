@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Wordle","l":"gamePanel"},{"p":"Wordle","l":"letterField"},{"p":"Wordle","l":"mainInterface"},{"p":"Wordle","l":"Wordle"}];updateSearchResults();
